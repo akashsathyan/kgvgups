@@ -18,7 +18,7 @@ let questions = [
     options: [
       "India",
       "Pakistan",
-      "United Kindom",
+      "United Kingdom",
       "Nepal"
     ]
   },
