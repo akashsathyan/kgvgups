@@ -205,7 +205,7 @@ body {
   margin: 0 0.5rem;
 
   animation: tada; /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 2s; /* don't forget to set a duration! */
+  animation-duration: 2.5s; /* don't forget to set a duration! */
 }
 
 .my-start {
