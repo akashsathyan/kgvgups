@@ -204,5 +204,5 @@ body {
   margin: 0 0.5rem;
 
   animation: tada; /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 7s; /* don't forget to set a duration! */
+  animation-duration: 4s; /* don't forget to set a duration! */
 }
