@@ -60,7 +60,7 @@ body {
 
 
 .welcome_text {
-  width: 400px;
+  /* width: 400px; */
 }
 
 .welcome_form {
@@ -87,7 +87,7 @@ body {
 }
 
 .welcome_form button {
-  padding: 20px 0;
+  padding: 15px 0;
   border: none;
   border-radius: 100px;
   background-color:  #282828;
@@ -206,4 +206,14 @@ body {
 
   animation: tada; /* referring directly to the animation's @keyframe declaration */
   animation-duration: 4s; /* don't forget to set a duration! */
+}
+
+.my-start {
+  display: inline-block;
+
+
+  animation: bounceIn; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 0.8s; /* don't forget to set a duration! */
+
+
 }
